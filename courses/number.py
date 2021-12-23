@@ -1,0 +1,8 @@
+print(5)
+print(10.5)
+print(3/2)
+print(2//1)
+print(9%3)
+print(9**3)
+year = input('Insert your year both: ')
+print(int(year)-2021)
